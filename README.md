@@ -1,9 +1,11 @@
 # python-Pipeline
 design a simple pipeline for daily job, freer than Pipeline in sklearn
 
-主要为了提供一种类似于sklearn的pipeline，但又没有fit、transform函数统一等限制的pipeline。
+主要为了提供一种类似于sklearn的pipeline，但又没有fit、transform函数统一、以及输出格式为numpy等限制的pipeline。
 
 可用于一般任务的流水线，也同样可以用于多算法模块的流水线。
+
+用法参考下面示例。
 
 example:
 ``````
