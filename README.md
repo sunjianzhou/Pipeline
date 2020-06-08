@@ -1,5 +1,5 @@
 # python-Pipeline
-design a simple pipeline for daily job, freer than Pipeline in sklearn
+design a simple pipeline for daily job, more free than Pipeline in sklearn
 
 主要为了提供一种类似于sklearn的pipeline，但又没有fit、transform函数统一、以及输出格式为numpy等限制的pipeline。
 
